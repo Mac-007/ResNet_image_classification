@@ -2,6 +2,9 @@
 
 A production-grade PyTorch image classification project using ResNet architecture with comprehensive training, validation, and testing capabilities.
 
+### Author
+**Dr. Amit Chougule (PhD)**
+
 ## Project Overview
 
 This project provides a complete, modular, and production-ready implementation for training ResNet models for image classification tasks. It features:
@@ -293,24 +296,3 @@ Deterministic training with:
 - CUDA (optional, for GPU acceleration)
 
 See `requirements.txt` for full dependency list.
-
-## License
-
-This project is provided as-is for educational and research purposes.
-
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{resnet_image_classification,
-  title={ResNet Image Classification Project},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/resnet-image-classification}
-}
-```
-
-## Contact
-
-For questions or issues, please open an issue on the project repository.
