@@ -1,0 +1,4 @@
+image_full_path,image_name,class_label
+/path/to/your/validation/images,image_001.jpg,class_0
+/path/to/your/validation/images,image_002.jpg,class_1
+/path/to/your/validation/images,image_003.jpg,class_2

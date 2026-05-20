@@ -1,0 +1,58 @@
+{
+    "epoch": 12,
+    "loss": 0.07767434789107963,
+    "accuracy": 0.9860627177700348,
+    "precision_macro": 0.9863702189283584,
+    "precision_micro": 0.9860627177700348,
+    "recall_macro": 0.9860627177700348,
+    "recall_micro": 0.9860627177700348,
+    "f1_macro": 0.9860544217687075,
+    "f1_micro": 0.9860627177700348,
+    "balanced_accuracy": 0.9860627177700348,
+    "roc_auc": 0.9993626242882637,
+    "per_class_metrics": {
+        "bike": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 41.0
+        },
+        "cars": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 41.0
+        },
+        "cats": {
+            "precision": 0.9743589743589743,
+            "recall": 0.926829268292683,
+            "f1-score": 0.95,
+            "support": 41.0
+        },
+        "dogs": {
+            "precision": 0.9302325581395349,
+            "recall": 0.975609756097561,
+            "f1-score": 0.9523809523809523,
+            "support": 41.0
+        },
+        "flowers": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 41.0
+        },
+        "horses": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 41.0
+        },
+        "human": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 41.0
+        }
+    },
+    "classification_report": "              precision    recall  f1-score   support\n\n        bike       1.00      1.00      1.00        41\n        cars       1.00      1.00      1.00        41\n        cats       0.97      0.93      0.95        41\n        dogs       0.93      0.98      0.95        41\n     flowers       1.00      1.00      1.00        41\n      horses       1.00      1.00      1.00        41\n       human       1.00      1.00      1.00        41\n\n    accuracy                           0.99       287\n   macro avg       0.99      0.99      0.99       287\nweighted avg       0.99      0.99      0.99       287\n"
+}
