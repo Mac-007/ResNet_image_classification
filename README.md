@@ -2,8 +2,8 @@
 
 A production-grade PyTorch image classification project using ResNet architecture with comprehensive training, validation, and testing capabilities.
 
-### Author
-**Dr. Amit Chougule (PhD)**
+> ### Author  
+> **Dr. Amit Chougule (PhD)**  
 
 ## Project Overview
 
